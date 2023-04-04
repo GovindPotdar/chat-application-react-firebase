@@ -1,0 +1,14 @@
+.chatList{
+  width: 100%;
+  /* height: 50px; */
+  background-color: rgb(221, 218, 218);
+  padding: 5px;
+  padding-left: 5px;
+  outline: none;
+  border-bottom: 1px solid rgb(70, 69, 68);
+  cursor: pointer;
+}
+
+.chatList:hover{
+  background-color: antiquewhite;
+}

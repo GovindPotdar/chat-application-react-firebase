@@ -1,0 +1,41 @@
+.chatBox{
+  height: 100vh !important;
+}
+
+.header{
+  height: 8vh !important;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+}
+
+.footer{
+  height: 9vh !important;
+  background-color: rgb(0, 0, 0);
+}
+
+.chat-messages {
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - 17vh) !important;
+  overflow-y: scroll;
+}
+
+.chat-message-left {
+  display: flex;
+  flex-shrink: 0
+}
+
+.chat-message-left {
+  margin-right: auto
+}
+
+.flex-grow-0 {
+  flex-grow: 0!important;
+}
+.border-top {
+  border-top: 1px solid #dee2e6!important;
+}
+
+.card{
+  border : 0px
+}

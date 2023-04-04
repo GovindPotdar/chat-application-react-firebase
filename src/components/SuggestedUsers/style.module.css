@@ -1,0 +1,6 @@
+.suggestedUser:hover{
+  background-color: antiquewhite;
+}
+.suggestedUser{
+  cursor: pointer;
+}
